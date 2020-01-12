@@ -17,9 +17,9 @@ where Qi is the air pollution index for the pollutant “i”, Ci is the corresp
  
  
 Secondly, the weighted mass (w) for each pollutant is computed.  
-wi = Wi/ΣWi
+wi = Wi/ΣWi<br>
 where Wi is the mass of pollutant “i” 
  
  
-Finally, the AQI is then calculated as follows:
+Finally, the AQI is then calculated as follows:<br>
 AQI = Σ(Wi * Qi)
