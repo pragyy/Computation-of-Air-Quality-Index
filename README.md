@@ -13,7 +13,7 @@ Firstly, the air pollution index for each pollutant (Q) is calculated. In this s
 <br>Pollution indices are obtained by using the following formula:
  
 Qi = (Ci * Si)/100
-where Qi is the air pollution index for the pollutant “i”, Ci is the corresponding concentration of the pollutant “i” in the air (calculated from the dataset) and Si is the air quality standard for the pollutant as prescribed by the Indian Pollution Control Association (IPCA).
+where Qi is the air pollution index for the pollutant “i”,<br> Ci is the corresponding concentration of the pollutant “i” in the air (calculated from the dataset) and Si is the air quality standard for the pollutant as prescribed by the Indian Pollution Control Association (IPCA).
  
  
 Secondly, the weighted mass (w) for each pollutant is computed.  
