@@ -8,7 +8,7 @@ It contains daily concentrations of the aforementioned pollutants from 2008-2010
 
 The Air Quality Index was computed as follows:
 
-There are primarily three steps involved in the calculation of AQI:
+There are primarily three steps involved in the calculation of AQI:<br>
 Firstly, the air pollution index for each pollutant (Q) is calculated. In this step, the concentration value of the pollutants is related to the Indian air quality standards and then the concentration of each pollutant is converted into a percentage of each standard. Then the pollution index of each pollutant is obtained.
 Pollution indices are obtained by using the following formula:
  
